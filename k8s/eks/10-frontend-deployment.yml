@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: devboard-frontend
-        image: trainwithshubham/devboard-frontend:576c333
+        image: trainwithshubham/devboard-frontend:15b04e1
         ports:
         - containerPort: 4173
         resources:
